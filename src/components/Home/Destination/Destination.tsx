@@ -8,7 +8,7 @@ const Destination = () => {
       {/* SECTION HEADING */}
       <SectionHeading heading="Exploring Popular Destination" />
       {/* SECTION CONTENT */}
-      <div className="mt-14 w-[80%] mx-auto">
+      <div className="mt-14 w-[80%] mx-auto ">
         {/* DESTINATION SLIDER */}
         <DestinationSlider />
       </div>
