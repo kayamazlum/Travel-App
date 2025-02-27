@@ -6,7 +6,7 @@ const Destination = () => {
   return (
     <div className="pt-20 pb-20">
       {/* SECTION HEADING */}
-      <SectionHeading heading="Exploring Popular Detination" />
+      <SectionHeading heading="Exploring Popular Destination" />
       {/* SECTION CONTENT */}
       <div className="mt-14 w-[80%] mx-auto">
         {/* DESTINATION SLIDER */}
